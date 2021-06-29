@@ -1,0 +1,16 @@
+{
+  "name": "crud_node",
+  "version": "1.0.0",
+  "description": "introduccion a node.js",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amzuletago",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.15",
+    "mongose": "0.0.2-security"
+  }
+}
