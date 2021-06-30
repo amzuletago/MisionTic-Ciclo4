@@ -1,0 +1,15 @@
+{
+  "name": "crude-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Programación Web Misión TIC 2022",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "5.12.15",
+    "morgan": "^1.10.0"
+  }
+}
